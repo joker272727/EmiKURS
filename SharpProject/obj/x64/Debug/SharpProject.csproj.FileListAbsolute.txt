@@ -1,0 +1,13 @@
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\bin\x64\Debug\SharpProject.exe.config
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\bin\x64\Debug\KURSBASA.mdb
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\bin\x64\Debug\SharpProject.exe
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\bin\x64\Debug\SharpProject.pdb
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\x64\Debug\SharpProject.Form1.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\x64\Debug\SharpProject.KursBD.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\x64\Debug\SharpProject.KursBD_tables.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\x64\Debug\SharpProject.LabStrings.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\x64\Debug\SharpProject.OneMars.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\x64\Debug\SharpProject.Properties.Resources.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\x64\Debug\SharpProject.csproj.GenerateResource.Cache
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\x64\Debug\SharpProject.exe
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\x64\Debug\SharpProject.pdb

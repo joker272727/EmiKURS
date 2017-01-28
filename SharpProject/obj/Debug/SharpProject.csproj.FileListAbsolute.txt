@@ -1,0 +1,65 @@
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\bin\Debug\SharpProject.exe.config
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\bin\Debug\SharpProject.exe
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\bin\Debug\SharpProject.pdb
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\obj\Debug\SharpProject.csprojResolveAssemblyReference.cache
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\obj\Debug\SharpProject.Form1.resources
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\obj\Debug\SharpProject.Properties.Resources.resources
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\obj\Debug\SharpProject.csproj.GenerateResource.Cache
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\obj\Debug\SharpProject.exe
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\obj\Debug\SharpProject.pdb
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\obj\Debug\SharpProject.OneMars.resources
+C:\Users\emils_000\Documents\Программирование\SharpProject\SharpProject\obj\Debug\SharpProject.LabStrings.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\bin\Debug\SharpProject.exe.config
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.exe
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.pdb
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\bin\Debug\SharpProject.exe
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\bin\Debug\SharpProject.pdb
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.csprojResolveAssemblyReference.cache
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.Form1.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.LabStrings.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.OneMars.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.Properties.Resources.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.csproj.GenerateResource.Cache
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_tables.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\bin\Debug\KURSBASA.mdb
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_task.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_SQL1.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_SQL2.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_SQL3.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\bin\Debug\SharpProject.exe.config
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.exe
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.pdb
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\bin\Debug\KURSBASA.mdb
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\bin\Debug\SharpProject.exe
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\bin\Debug\SharpProject.pdb
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.csprojResolveAssemblyReference.cache
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.Form1.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_tables.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_task.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_SQL1.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_SQL2.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_SQL3.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.LabStrings.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.OneMars.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.Properties.Resources.resources
+C:\Users\emils_000\Documents\Программирование\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.csproj.GenerateResource.Cache
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\bin\Debug\KURSBASA.mdb
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\bin\Debug\SharpProject.exe.config
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\bin\Debug\SharpProject.exe
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\bin\Debug\SharpProject.pdb
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.csprojResolveAssemblyReference.cache
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.Form1.resources
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD.resources
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_tables.resources
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_task.resources
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_SQL1.resources
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_SQL2.resources
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.KursBD_SQL3.resources
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.LabStrings.resources
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.OneMars.resources
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.Properties.Resources.resources
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.csproj.GenerateResource.Cache
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.exe
+C:\Users\emils\Desktop\Лабораторная 7-8-Курсовая\SharpProject\SharpProject\obj\Debug\SharpProject.pdb
